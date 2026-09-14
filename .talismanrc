@@ -1,0 +1,8 @@
+fileignoreconfig:
+- filename: package-lock.json
+  checksum: c44e742c8476972e8a444a9b7c9d6d198dadddcc2aae5010db07a71f1b718c3e
+- filename: src/App.css
+  checksum: 4d2797caf017efe1c404d17453e92ce2372ae795aede6c2d2f0e06712f6dee83
+- filename: src/App.tsx
+  checksum: 5c6940107afc8b1106953b4776c439f3d98108cd9f7bfc83140688c8d9871154
+version: ""
